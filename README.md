@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -24,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -33,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
