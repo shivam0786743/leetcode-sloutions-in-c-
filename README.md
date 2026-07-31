@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -96,7 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
