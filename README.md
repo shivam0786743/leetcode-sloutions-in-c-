@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0692-top-k-frequent-words) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0692-top-k-frequent-words) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
