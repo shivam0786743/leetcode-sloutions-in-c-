@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0005-longest-palindromic-substring) |
 | [0692-top-k-frequent-words](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0509-fibonacci-number) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0146-lru-cache) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
