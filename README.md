@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0692-top-k-frequent-words) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
