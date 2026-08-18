@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0347-top-k-frequent-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/1004-max-consecutive-ones-iii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
