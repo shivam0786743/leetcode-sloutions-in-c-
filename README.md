@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0146-lru-cache) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0005-longest-palindromic-substring) |
 | [0692-top-k-frequent-words](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0692-top-k-frequent-words) |
 ## Trie
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivam0786743/leetcode-sloutions-in-c-/tree/master/0713-subarray-product-less-than-k) |
